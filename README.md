@@ -22,7 +22,6 @@ Applying this architecture to an application that will convert video files to MP
 - Python (version 3+)
 - MySQL
 
-#### Service 1 - Auth Service
 
 
 
